@@ -1,3 +1,7 @@
+## Preview
+
+![alt text](screenshot.png)
+
 ## Install
 
 Clone the repo and install dependencies:
@@ -25,3 +29,6 @@ npm run package
 ## License
 
 MIT ©
+
+## Maintainers
+- ducbui.dev@gmail.com
